@@ -1,0 +1,8 @@
+
+myenv/bin/activate
+*.csh
+*.fish
+*.ps1
+myenv/bin/debugpy
+myenv/bin/f2py
+myenv/
